@@ -1,0 +1,10 @@
+[{<<"cowboy">>,{pkg,<<"cowboy">>,<<"1.0.4">>},0},
+ {<<"cowlib">>,{pkg,<<"cowlib">>,<<"1.0.2">>},1},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.7">>},1},
+ {<<"jsx">>,{pkg,<<"jsx">>,<<"2.8.0">>},0},
+ {<<"lager">>,{pkg,<<"lager">>,<<"3.0.2">>},0},
+ {<<"ranch">>,{pkg,<<"ranch">>,<<"1.2.1">>},1},
+ {<<"sync">>,
+  {git,"https://github.com/rustyio/sync.git",
+       {ref,"11df81d196eaab2d84caa3fbe8def5d476ef79d8"}},
+  0}].
