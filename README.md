@@ -1,7 +1,7 @@
 Eram
 =====
 
-An OTP application
+It is a web based and enhanced Erlang console.
 
 Build
 -----
